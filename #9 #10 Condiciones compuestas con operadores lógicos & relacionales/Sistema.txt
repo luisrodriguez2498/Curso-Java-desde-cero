@@ -1,0 +1,34 @@
+
+import java.util.Scanner;
+
+public class Sistema{
+
+	public static void main(String args[]){
+	Scanner scanner = new Scanner(System.in);
+	String nombre;
+	int clave, anios;
+
+	System.out.println("nombre del chachito xd:");
+	nombre = scanner.nextLine();
+
+	System.out.println("Clave del chachito xdxd")
+	clave = scanner.nextInt();
+
+	System.out.println("tiempo laburando del chachito xdxdxd");
+	anios = scanner.nextIn();
+
+	
+	if (clave == 1){
+		if (anios == 1){
+			System.out.printnln();
+			}
+		}
+	
+
+
+	}
+
+
+
+
+}
